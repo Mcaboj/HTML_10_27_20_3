@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.one {
+  text-indent: 3rem;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.two {
+    text-transform: uppercase;
+  text-indent: 3rem;
+  font-weight: 700;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+.three {
+    line-height: 1.5rem;
+    word spacing: 15px;
+}
+a{
+    font-size: 40px;
+    text-decoration: none;
+}
